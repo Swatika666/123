@@ -30,6 +30,9 @@
       "eslint --fix"
     ]
   },
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "animejs": "^3.1.0",
     "babel-plugin-styled-components": "^1.12.0",
@@ -75,9 +78,5 @@
     "husky": "^6.0.0",
     "lint-staged": "^10.1.2",
     "prettier": "^2.2.1"
-  },
-  "engines": {
-  "node": "14.16.0"
-}
-
+  }
 }
