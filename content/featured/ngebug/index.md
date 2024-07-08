@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'WuWa'
 cover: './ngebug.png'
 github: 'https://wutheringwaves.kurogames.com/en/'
 external: 'https://wutheringwaves.kurogames.com/en/'
